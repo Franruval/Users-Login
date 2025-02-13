@@ -8,7 +8,7 @@ Logging in and recieven a Json Web Token<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/login.png?raw=true)<br>
 Verifying the token in jwt.io<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/jwtio.png?raw=true)<br>
-Making a get request with username and password authentication<br>
+Making a post request with username and password authentication<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/basic-auth.png?raw=true)<br>
 Making a get request with a token<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/token-auth.png?raw=true)<br>
