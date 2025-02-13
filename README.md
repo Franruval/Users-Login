@@ -3,7 +3,7 @@ with an username and password, creating and veryifying a JWT to access a databas
 Registering an user<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/register-user.png?raw=true)<br>
 Users in the database<br>
-![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/database.png?raw=true)<br>
+![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/databse.png?raw=true)<br>
 Logging in and recieven a Json Web Token<br>
 ![alt text](https://github.com/Franruval/Users-Login/blob/master/src/main/resources/static/img/login.png?raw=true)<br>
 Verifying the token in jwt.io<br>
